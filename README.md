@@ -1,1 +1,1 @@
-# course3project
+# Getting and Cleaning Data Project
