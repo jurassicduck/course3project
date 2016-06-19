@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Project
+# Getting and Cleaning Data Course Project
 
 ## Background
 This is the course project for John Hopkins University's Getting and Cleaning Data Course. The purpose of the project is to demonstrate the ability to collect and clean a data set. Detail information regarding this data source can be found [here] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Data can be downloaded [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
