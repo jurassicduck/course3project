@@ -3,7 +3,7 @@
 ## Background
 This is the course project for John Hopkins University's Getting and Cleaning Data Course. The purpose of the project is to demonstrate the ability to collect and clean a data set. Detail information regarding this data source can be found [here] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Data can be downloaded [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
-## Project Instructions
+## Instructions
 Unzip the data files from the second link above and create an R script called run_analysis.R that does the following:
 
 1. Merges the training and the test sets to create one data set.
@@ -12,7 +12,7 @@ Unzip the data files from the second link above and create an R script called ru
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Project Submission
+## Submission
 The following items need to be submitted for grading:
 
 1. a tidy data set as described in the Project Instructions section.
